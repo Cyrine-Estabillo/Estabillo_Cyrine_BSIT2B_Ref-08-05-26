@@ -1,0 +1,21 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Josh Andrew B. Lumanog";
+        Console.WriteLine(name);
+        
+        int age = 20;
+        Console.WriteLine(age);
+        
+        double digits = 6.9;
+        Console.WriteLine(digits);
+        
+        bool happy = true;
+        bool sad = false;
+        Console.WriteLine(happy);
+        Console.WriteLine(sad);
+    }
+}
