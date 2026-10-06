@@ -1,0 +1,13 @@
+class comparator:
+
+    if 50:
+
+        print("output 50 is the bigger number")
+
+    if 30:
+
+        print("output 30 is not the bigger number")
+
+    if 20:
+
+        print("output 20 is the smallest number")
